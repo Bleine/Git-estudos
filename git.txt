@@ -1,0 +1,13 @@
+07/02/2026
+ETAPA 1
+Criação de pasta via terminal para início de projeto que visa estudar git. 
+Comandos utilizados:
+cd para navegação
+ls para listar 
+mkdir para criar diretório
+code git.txt para criar um arquivo de texto
+code git.py para criar um arquivo de python
+python git.py para abrir o arquvio de python
+
+ETAPA 2
+Iniciar um repositório localmente
